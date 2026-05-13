@@ -157,7 +157,6 @@ For privacy questions, data requests, or any concerns about how we handle your i
 
 **Email:** support@becom.app
 **Operator:** Becom, LLC
-**Mailing address:** [Business Address — to be added]
 **State of formation:** Idaho, USA
 
 ---
