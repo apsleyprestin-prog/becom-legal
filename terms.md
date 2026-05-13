@@ -168,7 +168,6 @@ We may update these Terms from time to time. If we make material changes, we'll 
 
 **Email:** support@becom.app
 **Operator:** Becom, LLC
-**Mailing address:** [Business Address — to be added]
 **State of formation:** Idaho, USA
 
 ---
